@@ -5,6 +5,7 @@ Fork or directly clone this repository to your local machine and cd into the pro
 Run npm install and then npm start.
 
 
-[![Screenshot-2021-01-15-My-Burger.png](https://i.postimg.cc/XY35SN8s/Screenshot-2021-01-15-My-Burger.png)](https://postimg.cc/zVtvTr4h)
+![alt text](https://github.com/LostStruct24/BurgerApp/blob/master/images/BurgerApp.png)
 
-[![Screenshot-2021-01-15-My-Burger-1.png](https://i.postimg.cc/QtB9kF8d/Screenshot-2021-01-15-My-Burger-1.png)](https://postimg.cc/WFv1sbqB)
+![alt text](https://github.com/LostStruct24/BurgerApp/blob/master/images/Burger.png)
+
